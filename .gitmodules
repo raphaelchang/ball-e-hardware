@@ -1,0 +1,3 @@
+[submodule "PCB/Camera"]
+	path = PCB/Camera
+	url = https://github.com/raphaelchang/ball-e-camera-hardware.git
