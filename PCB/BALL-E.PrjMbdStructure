@@ -1,2 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=BALL-E.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=Camera\BALL-E-Camera.PrjPCB
+Record=SubProject|SourceDocument=BALL-E.MbsDoc|ProjectPath=Camera\BALL-E-Camera.PrjPCB
 Record=DiagramHierarchy|SourceDocument=BALL-E.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=Main\BALL-E-Main.PrjPCB
 Record=SubProject|SourceDocument=BALL-E.MbsDoc|ProjectPath=Main\BALL-E-Main.PrjPCB
